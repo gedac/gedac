@@ -1,6 +1,6 @@
 - Hi, I’m @gedac
 - I’m interested in web dev
-- I’m a JS Senior FullStack dev
+- I’m a JS FullStack Senior dev
 - I'm the co-founder [Pavels](https://pavels.ro)
 - You can reach me [here](https://www.linkedin.com/in/codrinpavelpws/) or through our website
 
